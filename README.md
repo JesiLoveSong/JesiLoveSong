@@ -10,7 +10,7 @@ Specializing in education, nonprofit, information systems, local government, and
 
 <h2>👩🏽‍💻 About Me</h2>
 
-I'm an applied research and analytics professional with 15+ years of experience across higher education, local government, economic development, and educational systems. My work focuses on using data, systems, and research to support strategic decision-making, improve organizational effectiveness, and develop evidence-based solutions to complex challenges.
+I'm an applied research and analytics professional with 16+ years of experience (10 of which primarily in data analytics and research) across higher education, local government, economic development, and educational systems. My work focuses on using data, systems, and research to support strategic decision-making, improve organizational effectiveness, and develop evidence-based solutions to complex challenges.
 
 I specialize in institutional research, program evaluation, student success analytics, survey research, and data visualization, with experience translating complex data into actionable insights for leadership, policymakers, community stakeholders, and partners.
 
